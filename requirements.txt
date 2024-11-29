@@ -1,0 +1,6 @@
+azure-functions
+fastapi
+uvicorn
+motor
+pydantic[email]
+bcrypt
